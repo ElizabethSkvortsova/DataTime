@@ -1,0 +1,9 @@
+From 2020.02.29 or 29 February 2020 to time you get:
+ 29.0.0.0If we add 2020.02.29 or 29 February 2020 and 5.20.3.30 we get: 2020.03.5 or 5 March 2020
+If we subtract 2020.02.29 or 29 February 2020 and 5.20.3.30 we get: 2020.02.24 or 24 February 2020
+From 2019.01.2 or 2 January 2019 to time you get:
+ 2.0.0.0If we add 2019.01.2 or 2 January 2019 and 5.22.2.34 we get: 2019.01.7 or 7 January 2019
+If we subtract 2019.01.2 or 2 January 2019 and 5.22.2.34 we get: 2018.12.28 or 28 December 2018
+From 2000.12.31 or 31 December 2000 to time you get:
+ 31.0.0.0If we add 2000.12.31 or 31 December 2000 and 12.23.59.24 we get: 2001.01.12 or 12 January 2001
+If we subtract 2000.12.31 or 31 December 2000 and 12.23.59.24 we get: 2000.12.19 or 19 December 2000

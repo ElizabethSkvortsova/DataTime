@@ -1,0 +1,12 @@
+For this date: 2020.02.29 or 29 February 2020
+Weekday is: Saturday
+
+-------------------------------------
+For this date: 2019.01.2 or 2 January 2019
+Weekday is: Wednesday
+
+-------------------------------------
+For this date: 2000.12.31 or 31 December 2000
+Weekday is: Sunday
+
+-------------------------------------

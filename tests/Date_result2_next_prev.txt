@@ -1,0 +1,12 @@
+For this date: 2020.02.29 or 29 February 2020
+Next: 2020.03.1 or 1 March 2020
+Previous: 2020.02.28 or 28 February 2020
+-------------------------------------
+For this date: 2019.01.2 or 2 January 2019
+Next: 2019.01.3 or 3 January 2019
+Previous: 2019.01.1 or 1 January 2019
+-------------------------------------
+For this date: 2000.12.31 or 31 December 2000
+Next: 2001.01.1 or 1 January 2001
+Previous: 2000.12.30 or 30 December 2000
+-------------------------------------
