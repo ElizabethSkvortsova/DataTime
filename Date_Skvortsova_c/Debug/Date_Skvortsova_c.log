@@ -1,0 +1,11 @@
+﻿  Date.c
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(18): warning C4133: '=': incompatible types - from 'tm1 *' to 'TIME *'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4133: 'function': incompatible types - from 'char *' to 'FILE *const '
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%04d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%02d' requires an argument of type 'int *', but variadic argument 2 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%02d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%02d' requires an argument of type 'int *', but variadic argument 4 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%02d' requires an argument of type 'int *', but variadic argument 5 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(104): warning C4477: 'fscanf_s' : format string '%02d' requires an argument of type 'int *', but variadic argument 6 has type 'int'
+C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Date.c(108): warning C4133: 'function': incompatible types - from 'char *' to 'FILE *const '
+  Date_Skvortsova_c.vcxproj -> C:\Elisabeth\Универ\Програмирование\C++\Date_Skvortsova_c\Debug\Date_Skvortsova_c.exe
